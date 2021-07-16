@@ -20,7 +20,7 @@ Then type `npm i` to install the project dependencies and `npm start` to launch 
 
 ### ☕ Credits
 
-This project is currently maintained by Whoisvista.
+This project is currently maintained by Russia1337.
 If you want to be listed as a contributor you will have to contribute to the project.
 
 Dont FOrget a like <3
